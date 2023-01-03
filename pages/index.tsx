@@ -32,7 +32,7 @@ const Home: React.FC<HomeProps> = ({ page, error }) => {
         <>
           <Head>
             <title>{page.meta.title}</title>
-            <link rel="shortcut icon" href="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" type="image/x-icon" />
+            <link rel="shortcut icon" href='https://pbs.twimg.com/profile_images/1560981191624429569/hpVNy8zN_400x400.jpg' />
             <meta name="description" content={page.meta.description} />
           </Head>
           <PageViewer page={pageOk} />
