@@ -4,7 +4,7 @@ const Document = () => {
   return (
     <Html className="dark">
       <Head>
-        <link rel="shortcut icon" href="https://tse1.mm.bing.net/th?id=OIP.NwgJqiojY1Z0wg74DmcA4gHaHZ&pid=Api&rs=1&c=1&qlt=95&w=121&h=121" type="image/x-icon" />
+        <link rel="shortcut icon" href="https://img.freepik.com/free-vector/skull-vintage-stule_225004-1676.jpg?size=338&ext=jpg&ga=GA1.1.755022682.1671260416" type="image/x-icon" />
       </Head>
       <body>
         <Main />
